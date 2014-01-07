@@ -84,7 +84,7 @@ header img { float: left; margin-left: 10px; }
 .navbar ul.nav li.active a,
 .navbar ul.nav li.active a:hover,
 .navbar ul.nav li a:hover,
-.navbar ul.nav li a.selected { color:#FFCC00; text-decoration: none;
+.navbar ul.nav li a.selected { color:#00A86B; text-decoration: none;
    background: none;
    -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow:none;
 }
@@ -122,7 +122,7 @@ ul.homenav li a { color:#999; font-weight: 800; text-decoration:none; font-size:
    background: none;
    -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow:none;
 }
-ul.homenav li a:hover{ color:#FFCC00; text-decoration: none;
+ul.homenav li a:hover{ color:#00A86B; text-decoration: none;
    background: none;
    -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow:none;
 }
@@ -140,7 +140,7 @@ ul.homenav li a:hover{ color:#FFCC00; text-decoration: none;
 		padding: 20px;
 		text-align: center;
 		font-size: 26px;
-		border: 3px solid #FFCC00;
+		border: 3px solid #00A86B;
 		border-radius: 6px;
 		box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2), inset 0 2px 1px rgba(0, 0, 0, 0.2);
 		background: transparent;
@@ -358,7 +358,7 @@ ul.homenav li a:hover{ color:#FFCC00; text-decoration: none;
 		outline: none;
 		padding: 10px;
 		text-align: center;
-		border: 3px solid #FFCC00;
+		border: 3px solid #00A86B;
 		border-radius: 6px;
 		box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2), inset 0 2px 1px rgba(0, 0, 0, 0.2);
 		background: transparent;
@@ -429,7 +429,7 @@ display:none;
 	/* PERSON */
 	.person 		{ width: 100%; background: #fff; margin-bottom: 8px; padding-bottom: 8px; position: relative; text-align: center; }
 		.person h2 			{ font-size: 16px; margin: 5px 0; letter-spacing: -1px;}
-		.person .position 	{ display: inline-block; padding: 3px 5px; background: #FFCC00; color: #fff; font-size: 14px; text-transform: uppercase; }
+		.person .position 	{ display: inline-block; padding: 3px 5px; background: #00A86B; color: #fff; font-size: 14px; text-transform: uppercase; }
 		.person ul a,
 		.person ul a:hover	{ text-decoration: none; }
 		.person p a { font-size:12px; }
@@ -439,7 +439,7 @@ display:none;
 /* ABOUT
 ============================== */
 #timeline { padding: 60px 0 100px 0; background: #f3f3f3; }
-#timeline a { color: #FFCC00; }
+#timeline a { color: #00A86B; }
 #timeline a:hover { color: #dcdcdc; text-decoration: none; }										
 
 /* CONTACT
@@ -492,7 +492,7 @@ display:none;
 }	
 
 	/* BUTTON -> HOVER */
-	#contact form .btn:hover{ background:#FFCC00; color:#FFF; }
+	#contact form .btn:hover{ background:#00A86B; color:#FFF; }
 	
 
 	
@@ -506,7 +506,7 @@ display:none;
 .container.txtblock {background:#23231F url('../img/bg_block1.jpg') left center no-repeat; width:100%; padding: 80px 0 80px 0; border-bottom: 1px solid #e3e3e3;}
 .container.txtblock p.lead {background: url('../img/icon-apos.png') 0px 12px no-repeat; color:#CCCCCC; font-weight: 300; font-size: 28px; line-height: 52px; letter-spacing: -1px; max-width:900px; margin: 0 auto; text-align: left; font-family: 'Merriweather', Georgia, serif; padding: 0 0 0 100px;}
 .container.txtblock a {color:#fff; font-weight: 400;}
-.container.txtblock a:hover {color:#FFCC00; text-decoration:none;}
+.container.txtblock a:hover {color:#00A86B; text-decoration:none;}
 .container.txtblock.nrtwo {background:#23231F url('../img/bg_block3.jpg') left center no-repeat;}
 .container.txtblock.nrthree {background:#23231F url('../img/bg_block2.jpg') left center no-repeat;}
 
