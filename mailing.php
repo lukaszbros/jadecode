@@ -11,7 +11,7 @@
 	$body.=" First name: ".htmlentities($_REQUEST['first_name'])."<br />";
 	$body.=" Email: ".htmlentities($_REQUEST['email'])."<br />";
 	$body.=" Comments: ".htmlentities($_REQUEST['comments'])."<br />";
-	if ($mailServerConnection->sendMail('lukasz@jadecode.com', 'JadeCode form', $body)) {
+	if ($mailServerConnection->sendMail('contact@jadecode.com', 'JadeCode form', $body)) {
 		echo 'success';
 	} else {
 		echo 'error';

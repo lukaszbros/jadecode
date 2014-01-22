@@ -49,7 +49,7 @@ a:hover { color: #000; text-decoration: none; }
 .icon-about, .icon-contact { display: block; margin: 10px auto; height: 64px; width: 100%; background:url('../img/icon-line2.png') center center repeat-x; }
 .icon-about img, .icon-contact img { background: #DCDCDC; }
 
-h2 {margin-top: 30px;}
+h2 {margin-top: 30px; font-size: 30.5px;}
 
 /* HEADER
 ============================== */
@@ -158,7 +158,7 @@ ul.homenav li a:hover{ color:#00A86B; text-decoration: none;
 	a#arrow_down:hover { background-color: rgba(0,0,0,0.6); }
 
 
-/* WORKS
+/* COMPANY
 ============================== */
 #company { padding: 60px 0 100px 0; background: #f3f3f3; border-bottom: 1px solid #e3e3e3; }
 
@@ -174,18 +174,19 @@ ul.homenav li a:hover{ color:#00A86B; text-decoration: none;
         .person ul { margin-top: 20px; }
 
 
-#company .span3 {margin-left: 14px;}
+#company .span3 {float: none; margin: auto;}
 
-/* ABOUT
+/* ARCHITECTURE
 ============================== */
 #architecture { padding: 60px 0 100px 0; background: #dcdcdc; border-bottom: 1px solid #e3e3e3; }
-
 		
-/* ABOUT
+/* SERVICES
 ============================== */
 #services { padding: 60px 0 100px 0; background: #f3f3f3; }
 #services a { color: #00A86B; }
-#services a:hover { color: #dcdcdc; text-decoration: none; }										
+#services a:hover { color: #dcdcdc; text-decoration: none; }	
+#services ul {padding: 0; margin:0; }
+#services li { margin: 15px 0 15px 0;}									
 
 /* CONTACT
 ============================== */
